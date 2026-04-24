@@ -94,3 +94,5 @@ def test_string_rotation():
 def test_new_case1():
     pass
 
+def test_case_2():
+    pass
