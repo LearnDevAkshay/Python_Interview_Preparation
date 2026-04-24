@@ -83,15 +83,11 @@ def test_reverse_words_in_sentence():
     str = " hi this is akshay"
 
 def test_longest_sub_string():
-    s2 = 'test2'
     print(longest_substring('abcabcbb'))
 
 
 def test_string_rotation():
    s1= 'abcd'
    s2 = 'cdab'
-   s5 = 'test'
-   s3 ='test'
-   s4 = 'test2'
    assert check_rotation(s1,s2) == True
 
