@@ -92,6 +92,7 @@ def test_string_rotation():
    assert check_rotation(s1,s2) == True
 
 def test_new_case1():
+    s1 = 'test'
     pass
 
 def test_case_2():
