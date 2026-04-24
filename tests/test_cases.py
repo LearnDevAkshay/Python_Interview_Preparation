@@ -83,6 +83,7 @@ def test_reverse_words_in_sentence():
     str = " hi this is akshay"
 
 def test_longest_sub_string():
+    s1 ='test'
     print(longest_substring('abcabcbb'))
 
 
