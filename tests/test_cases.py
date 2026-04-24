@@ -97,3 +97,6 @@ def test_new_case_added_at_bottom():
 
 def test_new1_case_added_at_bottom():
     pass
+
+def test_new3_case_added_at_bottom():
+    pass
