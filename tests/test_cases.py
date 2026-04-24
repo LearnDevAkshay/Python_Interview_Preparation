@@ -89,5 +89,7 @@ def test_longest_sub_string():
 def test_string_rotation():
    s1= 'abcd'
    s2 = 'cdab'
+   s3 ='test'
+   s4 = 'test2' 
    assert check_rotation(s1,s2) == True
 
