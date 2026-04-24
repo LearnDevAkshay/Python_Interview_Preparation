@@ -93,6 +93,7 @@ def test_string_rotation():
 
 def test_new_case1():
     s2 = 'test'
+    s1 = 'test'
     pass
 
 def test_case_2():
