@@ -92,11 +92,3 @@ def test_string_rotation():
    s2 = 'cdab'
    assert check_rotation(s1,s2) == True
 
-def test_new_case_added_at_bottom():
-    pass
-def test_new_case():
-    pass
-
-
-def test_new1_case_added_at_bottom():
-    pass
