@@ -60,6 +60,7 @@ def test_rotation_of_list():
 def test_swap_two_numbers_without_temp():
     a = 10
     b = 20
+    c = 30
     assert swap_num(a,b) == (20,10)
 
 def test_factorial():
@@ -91,3 +92,8 @@ def test_string_rotation():
    s2 = 'cdab'
    assert check_rotation(s1,s2) == True
 
+def test_new_case_added_at_bottom():
+    pass
+
+def test_new1_case_added_at_bottom():
+    pass
